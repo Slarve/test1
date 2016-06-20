@@ -1,0 +1,9 @@
+git add   filename.txt => adds a file to local version control
+git commit -m "provides a version comment"  
+
+git push  => pushes directory to externally set up github account.
+
+git pull => obtains most recent version...
+
+
+

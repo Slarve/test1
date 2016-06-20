@@ -5,5 +5,8 @@ git push  => pushes directory to externally set up github account.
 
 git pull => obtains most recent version...
 
+git clone https://github.com/Slarve/test1   opens a new git enabled directory
+ 
+
 
 

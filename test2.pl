@@ -1,2 +1,0 @@
-print "just another script";
-
